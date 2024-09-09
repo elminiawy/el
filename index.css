@@ -111,6 +111,8 @@ div {
 
 .min3 div p {
     text-align: center;
+    word-wrap: break-word;
+
 }
 
 .min3 div h2,
