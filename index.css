@@ -39,7 +39,7 @@ section {
     background-size: cover;
     width: 100%;
     min-height: 100vh;
-    background-position: left center;
+    background-position: center;
     display: flex;
     align-items: center;
     background-attachment: fixed;
